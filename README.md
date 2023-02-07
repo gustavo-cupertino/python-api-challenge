@@ -9,7 +9,7 @@ Please refer to the files:
     VacationPy_Solved_GP.ipynb
     
 
-Output data and images have been placed on the <output_data> folder inside <WeatherPy>
+Output data and images have been placed on the "output_data" folder inside the "WeatherPy" folder
 
 
 
